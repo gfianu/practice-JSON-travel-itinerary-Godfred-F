@@ -1,0 +1,53 @@
+{
+    "tripName" : "Trip to New York",
+    "traveler" : {
+        "name" : "Godfred Fianu",
+        "contact" : {
+            "email" : "gf123@email.com",
+            "contact" : "314-454-2200"
+        }
+    },
+    "destinations" : [
+        {
+            "location" : "Liberty Island",
+            "arrivalDate" : "2025-06-15",
+            "departureDate" : "2025-06-15",
+            "activities" : [
+                {
+                    "title": "climb the Statue of Liberty",
+                    "time" : "10:00 AM"
+                },
+                {
+                    "title": "visit museum",
+                    "time" : "12:00 PM"
+                },
+                {
+                    "title": "eat dinner",
+                    "time" : "6:00 PM"               
+                }
+    
+            ]
+        },
+        {
+            "location" : "Manhattan",
+            "arrivalDate" : "2025-06-20",
+            "departureDate" : "2025-06-20",
+            "activities" : [
+                {
+                    "title": "tour city",
+                    "time" : "10:00 AM"
+                },
+                {
+                    "title": "visit Empire State Building",
+                    "time" : "12:00 PM"
+                },
+                {
+                    "title": "eat dinner",
+                    "time" : "6:00 PM"               
+                }
+    
+            ]
+        }
+        ]
+        
+}
