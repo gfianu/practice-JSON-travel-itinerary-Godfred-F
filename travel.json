@@ -12,6 +12,10 @@
             "location" : "Liberty Island",
             "arrivalDate" : "2025-06-15",
             "departureDate" : "2025-06-15",
+            "transportation": {
+                "mode": "Boat",
+                "cost": 50.00
+            }
             "activities" : [
                 {
                     "title": "climb the Statue of Liberty",
@@ -32,6 +36,10 @@
             "location" : "Manhattan",
             "arrivalDate" : "2025-06-20",
             "departureDate" : "2025-06-20",
+            "transportation": {
+                "mode": "Taxi",
+                "cost": 20.00
+            }
             "activities" : [
                 {
                     "title": "tour city",
