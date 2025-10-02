@@ -15,18 +15,18 @@
             "transportation": {
                 "mode": "Boat",
                 "cost": 50.00
-            }
+            },
             "activities" : [
                 {
-                    "title": "climb the Statue of Liberty",
+                    "title": "Climb the Statue of Liberty",
                     "time" : "10:00 AM"
                 },
                 {
-                    "title": "visit museum",
+                    "title": "Visit museum",
                     "time" : "12:00 PM"
                 },
                 {
-                    "title": "eat dinner",
+                    "title": "Eat dinner",
                     "time" : "6:00 PM"               
                 }
     
@@ -39,19 +39,43 @@
             "transportation": {
                 "mode": "Taxi",
                 "cost": 20.00
-            }
+            },
             "activities" : [
                 {
-                    "title": "tour city",
+                    "title": "Tour city",
                     "time" : "10:00 AM"
                 },
                 {
-                    "title": "visit Empire State Building",
+                    "title": "Visit Empire State Building",
                     "time" : "12:00 PM"
                 },
                 {
-                    "title": "eat dinner",
+                    "title": "Eat dinner",
                     "time" : "6:00 PM"               
+                }
+    
+            ]
+        },
+        {
+            "location" : "Kansas City",
+            "arrivalDate" : "2025-06-21",
+            "departureDate" : "2025-06-21",
+            "transportation": {
+                "mode": "Flight",
+                "cost": 200.00
+            },
+            "activities": [
+                {
+                    "title": "Flight Leaves New York",
+                    "time" : "11:00 AM"
+                },
+                {
+                    "title": "Layover in Atlanta",
+                    "time" : "12:00 PM"
+                },
+                {
+                    "title": "Land Back Home",
+                    "time" : "8:00 PM"               
                 }
     
             ]
